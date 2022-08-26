@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "BGY2016 Amplifier")(type KiCad)(uri "${KIPRJMOD}/BGY2016 Amplifier.pretty")(options "")(descr ""))
+)
