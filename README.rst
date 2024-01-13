@@ -11,6 +11,6 @@ For further details see the `LibreCellular Documentation`_.
 Licence
 -------
 
-LibreCelluar LTE Band 3 Medium Power Amplifier is copyright 2022 AB Open Ltd and provided under the Solderpad Hardware License v2.1.
+LibreCellular LTE Band 3 Medium Power Amplifier is copyright 2022 AB Open Ltd and provided under the Solderpad Hardware License v2.1.
 
 .. _LibreCellular Documentation: https://librecellular.org/developer/hardware/rf/b3mpa.html
